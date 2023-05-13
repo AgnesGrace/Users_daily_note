@@ -1,6 +1,6 @@
 # Express API
 
-This is a simple REST API using Express. This will be a users ideas API, so the data will be ideas that people post.
+This is a simple REST API using Express. This will be a users daily note API, so the data will be notes that people post.
 
 We implemented `CRUD` functionality, which is create, read, update and delete.
 
