@@ -42,3 +42,11 @@ app.listen(5000, () => {
 ```
 
 That is the starting point, but we are still going to connect to a database in this case, we use MongoDb
+
+# Note
+
+I am using webpack bundle which you can easily access the boilerplate from
+
+```link
+https://github.com/AgnesGrace/webpack_boilerplate
+```
